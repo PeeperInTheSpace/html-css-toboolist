@@ -17,6 +17,7 @@ header {
 
 .sitename {
     font-family: 'Poppins', sans-serif;
+    font-weight: 700;
     display: inline-block;
     vertical-align: middle;
     line-height: 50px;
@@ -41,6 +42,7 @@ nav {
 button {
     border-radius: 5px;
     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
 }
 
 .button1 {
@@ -65,3 +67,52 @@ main {
     border-radius: 2px;
 }
 
+.list1 {
+    padding-left: 35px;
+    padding-top: 40px;
+}
+
+.dropdown {
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 700; 
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 25px;
+}
+
+.check {
+    height: 22px;
+    padding-left: 8px;
+    padding-right: 3px;
+    vertical-align: middle;
+}
+
+.line {
+    font-family: 'Poppins', sans-serif;  
+    font-weight: 400;
+    vertical-align: middle;
+    height: 22px;
+}
+
+.box {
+    margin-bottom: 10px;
+}
+
+.badge {
+    margin-left: 10px;
+    padding: 5px 10px;
+    vertical-align: middle;
+    height: 22px;
+    background-color: #47adf1;
+    border-radius: 15px;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;  
+    font-weight: 400;
+    color: white;
+}
