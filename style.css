@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+.sitename {
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+
+}
+
+.sitenamebox {
+    display: inline;
+    height: 100px;
+}
+
+.logo {
+    display: inline;
+}
+
+.head {
+    padding: 10px 15px;
+}
